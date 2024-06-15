@@ -33,6 +33,8 @@ This command starts a static server in your current directory, which is now acce
 
 Step 4: Access Your Site
 After running the serve command, you should see an output similar to this:
+#
+
 
    ┌────────────────────────────────────────────┐
    │                                            │
@@ -44,6 +46,8 @@ After running the serve command, you should see an output similar to this:
    │   Copied local address to clipboard!       │
    │                                            │
    └────────────────────────────────────────────┘
+
+#
 Open your web browser and navigate to http://localhost:5000. You should see your HTML file served as a website!
 
 Step 5: Stop the Server
